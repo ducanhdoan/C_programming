@@ -2,4 +2,4 @@ This first project involves the creation of racing car game that can be played i
 
 The program is run through cygwin.Please install it as outlined before
 
-Please dwonload the ZDK library and place it in the same directory as the script
+Please download the ZDK library and place it in the same directory as the script
